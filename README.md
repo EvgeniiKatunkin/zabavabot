@@ -1,2 +1,2 @@
-# Django website for a shop
-Django website for a shop
+# Telegram bot for musical festival
+Telegram bot for musical festival
