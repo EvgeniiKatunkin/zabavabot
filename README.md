@@ -1,2 +1,2 @@
-# Telegram bot for musical festival
-Telegram bot for musical festival
+# Telegram bot for music festival
+Telegram bot for music festival
